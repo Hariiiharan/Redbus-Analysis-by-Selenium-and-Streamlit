@@ -24,7 +24,7 @@ Selenium
 The collected bus details data was transformed into pandas dataframes. Before that, a new database and tables were created using the MySQL connector. With the help of MySQL, the data was inserted into the respective tables. The database could be accessed and managed in the MySQL environment.
 web app - streamlit:
 With the help of Streamlit, you can create an interactive application similar to RedBus by designing a user-friendly interface that allows users to search for bus routes, view available buses, and get details like departure times and prices
-# PACKAGES AND LIBRARIES
+# Packages and Libraries
 pandas as pd
 mysql.connector
 import time
